@@ -1,16 +1,30 @@
-# flutter_app_ma_carte_de_visite
+# carte de visite -v1
+![Screenshot_1588173678](https://user-images.githubusercontent.com/49534121/80614582-89069b00-8a36-11ea-92cd-14d6205990d7.PNG)
 
-A new Flutter application.
+## Description
+This is my first flutter learning app
+
+## Features :
+- Screens and Routing
+  
+## Prerequisites
+Follow this step by step for installing Flutter: - [Installing Flutter](https://flutter.dev/docs/get-started/install)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### 1. Clone repository
+` `
+`git clone https://github.com/EtienneBel/flutter_app_ma_carte_de_visite`
+` `
 
-A few resources to get you started if this is your first Flutter project:
+### 2. Start using
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Connect your device on the machine and run, or run on the emulator.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+
+[Flutter license](https://github.com/flutter/flutter/blob/master/LICENSE) 
+
+Note: This code has only been tested in the Android environment
+
+Any question feel free to contact me at belemgnegreetienne@gmail.com
